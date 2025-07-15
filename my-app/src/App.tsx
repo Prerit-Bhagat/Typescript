@@ -6,12 +6,13 @@ import "./App.css";
 // export default App
 import React from "react";
 // import Test from "./Test";
-import Arrays from "./Generics";
+// import Arrays from "./Generics";
+import MapandFilter from "./MapandFilter";
 
 const App = () => {
   return (
     <div>
-      <Arrays />
+      <MapandFilter />
     </div>
   );
 };
